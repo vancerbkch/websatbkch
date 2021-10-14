@@ -1,9 +1,148 @@
-h1 {
-color:grey;
-font-size:20px;
-font-weight:700;
+body {
+
+				margin:0;				padding:0;
+
+				font-family:Arial,sans-serif;
 
 }
-body {
-  font-family:Arial, sans-serif;
-  }
+
+.logo {width:35px; 
+
+margin-left:-30px;
+
+}
+
+.navbar {
+
+				position:fixed;
+
+				width:100vw;
+
+				height:8vh;
+
+				box-shadow:0 5px 19px rgba(0, 0, 0, .2);
+
+				background:white;
+
+}
+
+.navbar {
+
+				display:flex;
+
+				justify-content:space-between;
+
+				align-items:center;
+
+				
+
+}
+
+.navbar a img{
+
+				cursor:none;
+
+}
+
+.navbar  .side {
+
+				width:40px;
+
+}
+
+.navbar a .ic1 {
+
+				width:40px;
+
+				margin-right:10px;
+
+}
+
+.navbar a .ic2 {
+
+				width:33px;
+
+				margin-right:10px;
+
+}
+
+.navbar a .ic3{
+
+				width:31px;
+
+				margin-right:10px;
+
+}
+
+.all {
+
+		 padding-top:8vh;
+
+		 text-align:center;
+
+		 
+
+}
+
+.all h1 {
+
+				color:#556dff;
+
+}
+
+.all b {
+
+				color:#6a8dff;
+
+}
+
+.siden {
+
+								width:60vw;
+
+				height:15vh;
+
+				bottom:-46vh;
+
+				background:black;
+
+				opacity:60%;
+
+				position:relative;
+
+				display:flex;
+
+				justify-content:center;
+
+				align-items:center;
+
+				transition:0.5s;
+
+	    
+
+				
+
+}
+
+.siden h3 {
+
+				color:white;
+
+}
+
+.siden:hover {
+
+ 
+
+			
+
+			width:100vw;
+
+}
+
+
+
+
+
+
+
