@@ -1,149 +1,159 @@
 
+
+
+
 body {
 
-				margin:0;				padding:0;
+    margin:0;				padding:0;
 
-				font-family:Arial,sans-serif;
-
-}
-
-.logo {width:35px; 
-
-margin-left:-30px;
+    font-family:Arial,sans-serif;
 
 }
 
-.navbar {
+.logo {width:6.16vh; 
 
-				position:fixed;
-
-				width:100vw;
-
-				height:8vh;
-
-				box-shadow:0 5px 19px rgba(0, 0, 0, .2);
-
-				background:white;
+margin-left:-9.37vw;
 
 }
 
 .navbar {
 
-				display:flex;
+    position:fixed;
 
-				justify-content:space-between;
+    width:100vw;
 
-				align-items:center;
+    height:8vh;
 
-				
+    box-shadow:0 5px 19px rgba(0, 0, 0, .2);
+
+    background:white;
+
+}
+
+.navbar {
+
+    display:flex;
+
+    justify-content:space-between;
+
+    align-items:center;
+
+    
 
 }
 
 .navbar a img{
 
-				cursor:none;
+    cursor:none;
 
 }
 
 .navbar  .side {
 
-				width:40px;
+    width:12.5vw;
 
 }
 
 .navbar a .ic1 {
 
-				width:40px;
+    width:12.5vw;
 
-				margin-right:10px;
+    margin-right:3.12vw;
 
 }
 
 .navbar a .ic2 {
 
-				width:33px;
+    width:10.31vw;
 
-				margin-right:10px;
+    margin-right:3.12vw;
 
 }
 
 .navbar a .ic3{
 
-				width:31px;
+    width:9.687vw;
 
-				margin-right:10px;
+    margin-right:3.12vw;
 
 }
 
 .all {
 
-		 padding-top:8vh;
+padding-top:8vh;
 
-		 text-align:center;
+text-align:center;
 
-		 
+
 
 }
 
 .all h1 {
 
-				color:#556dff;
+    color:#556dff;
+    font-size: 6vw;
 
 }
 
 .all b {
 
-				color:#6a8dff;
+    color:#6a8dff;
+    font-size: 3vw;
 
 }
 
 .siden {
 
-								width:60vw;
+                    width:30vw;
 
-				height:15vh;
+    height:15vh;
 
-				bottom:-46vh;
+    bottom:-46vh;
 
-				background:black;
+    background:black;
 
-				opacity:60%;
+    opacity:60%;
 
-				position:relative;
+    position:relative;
 
-				display:flex;
+    display:flex;
 
-				justify-content:center;
+    justify-content:center;
 
-				align-items:center;
+    align-items:center;
 
-				transition:0.5s;
+    transition:0.5s;
 
-	    
 
-				
+
+    
 
 }
 
 .siden h3 {
 
-				color:white;
+    color:white;
+    font-size:4vw ;
 
 }
 
 .siden:hover {
 
- 
 
-			
 
-			width:100vw;
+
+
+width:100vw;
 
 }
 
 
 
 
+
+
+
+    
 
 
 
