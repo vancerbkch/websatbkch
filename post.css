@@ -1,1 +1,18 @@
-
+.banner img{
+				width:100vw;
+				height:40vh;
+				top:0;
+				object-fit:cover;
+}
+.banner h1 {
+				color:white;
+				font-weight:700;
+				font-size:7vw;
+				margin:1vh 1vw;
+}
+.banner p {
+	color:white;
+	font-weight:600 ;
+	font-size: 2vw;
+	margin:0 1vw;
+}
